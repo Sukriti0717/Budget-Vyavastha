@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
- background-image: url('C:\Users\sukri\OneDrive\Documents\expense_tracker\public\money.png'); 
+ /*background-image: url('C:\Users\sukri\OneDrive\Documents\expense_tracker\public\money.png');*/ 
 
   background-color: #E5E4E2;
 }
